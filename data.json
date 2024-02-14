@@ -26,7 +26,7 @@
     {
         "title": "Software Engineer",
         "company": "LinkedIn",
-        "company_logo":"https://raw.githubusercontent.com/iwinnerkm/portfolio/blob/main/res/in.png",
+        "company_logo":"https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/in.png",
         "description": "Full-time",
         "location": "Bengaluru, Karnataka, India",
         "employment_type": "Full-time",
@@ -50,7 +50,7 @@
     {
         "title": "Senior Software Engineer",
         "company": "Paytm Money",
-        "company_logo":"https://raw.githubusercontent.com/iwinnerkm/portfolio/blob/main/res/money.png",
+        "company_logo":"https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/money.png",
         "description": "Full-time",
         "location": "Bengaluru, Karnataka, India",
         "employment_type": "Full-time",
@@ -60,7 +60,7 @@
     {
         "title": "Software Engineer",
         "company": "Paytm Money",
-        "company_logo":"https://raw.githubusercontent.com/iwinnerkm/portfolio/blob/main/res/money.png",
+        "company_logo":"https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/money.png",
         "description": "Full-time",
         "location": "Bengaluru Area, India",
         "employment_type": "Full-time",
@@ -70,7 +70,7 @@
     {
         "title": "Android Engineer",
         "company": "Kuliza",
-        "company_logo":"https://raw.githubusercontent.com/iwinnerkm/portfolio/blob/main/res/service.png",
+        "company_logo":"https://raw.githubusercontent.com/iwinnerkm/portfolio/main/res/service.png",
         "description": "Full-time",
         "location": "Bengaluru, Karnataka, India",
         "employment_type": "Full-time",
