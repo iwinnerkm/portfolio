@@ -2,6 +2,7 @@
     {
         "title": "Engineer",
         "company": "DoorDash",
+        "company_logo":"https://github.com/iwinnerkm/portfolio/blob/main/res/dd.png",
         "description": "Full-time",
         "location": "Toronto, Ontario, Canada",
         "employment_type": "Full-time",
@@ -25,6 +26,7 @@
     {
         "title": "Software Engineer",
         "company": "LinkedIn",
+        "company_logo":"https://github.com/iwinnerkm/portfolio/blob/main/res/in.png",
         "description": "Full-time",
         "location": "Bengaluru, Karnataka, India",
         "employment_type": "Full-time",
@@ -48,6 +50,7 @@
     {
         "title": "Senior Software Engineer",
         "company": "Paytm Money",
+        "company_logo":"https://github.com/iwinnerkm/portfolio/blob/main/res/money.png",
         "description": "Full-time",
         "location": "Bengaluru, Karnataka, India",
         "employment_type": "Full-time",
@@ -57,6 +60,7 @@
     {
         "title": "Software Engineer",
         "company": "Paytm Money",
+        "company_logo":"https://github.com/iwinnerkm/portfolio/blob/main/res/money.png",
         "description": "Full-time",
         "location": "Bengaluru Area, India",
         "employment_type": "Full-time",
@@ -66,6 +70,7 @@
     {
         "title": "Android Engineer",
         "company": "Kuliza",
+        "company_logo":"https://github.com/iwinnerkm/portfolio/blob/main/res/service.png",
         "description": "Full-time",
         "location": "Bengaluru, Karnataka, India",
         "employment_type": "Full-time",
